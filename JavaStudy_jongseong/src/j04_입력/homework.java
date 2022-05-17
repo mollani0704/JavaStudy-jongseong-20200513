@@ -15,7 +15,5 @@ public class homework {
 				|| year % 400 == 0
 				? "윤년" : "윤년 아님";
 		System.out.println(result);
-
 	}
-
 }
