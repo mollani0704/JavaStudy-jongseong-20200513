@@ -10,16 +10,16 @@ public class Input01 {
 		String str1 = null;
 		String str2 = null;
 		String str3 = null;
-//		String str4 = null;
+		String str4 = null;
 		
 		System.out.print("첫번째 값 입력 : ");
 		str1 = scanner.next();
 		str2 = scanner.next();
 		str3 = scanner.next();
-//		str4 = scanner.nextLine();
+		str4 = scanner.nextLine();
 		
 		System.out.println("값 : " + str1 + str2 + str3);
-//		System.out.println("값 : " + str4);
+		System.out.println("값 : " + str4);
 		
 //		int num1 = scanner.nextInt();
 //		System.out.print("두번째 값 입력 : ");
