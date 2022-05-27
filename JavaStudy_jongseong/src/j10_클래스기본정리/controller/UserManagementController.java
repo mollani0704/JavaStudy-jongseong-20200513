@@ -25,8 +25,6 @@ public class UserManagementController {
 		} else {
 			System.out.println("더 이상 사용자를 추가 할 수 없습니다.");
 		}
-		
-	
 	}
 
 	private int findEmptyInUsers() {
