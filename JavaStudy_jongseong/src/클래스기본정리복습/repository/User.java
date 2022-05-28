@@ -1,7 +1,6 @@
 package 클래스기본정리복습.repository;
 
 public class User {
-	
 	private String usercode;
 	private String email;
 	private String name;
@@ -65,6 +64,8 @@ public class User {
 		return "User [usercode=" + usercode + ", email=" + email + ", name=" + name + ", username=" + username
 				+ ", password=" + password + "]";
 	}
+	
+	
 	
 	
 }
