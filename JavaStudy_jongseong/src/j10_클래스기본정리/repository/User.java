@@ -5,11 +5,7 @@ package j10_클래스기본정리.repository;
  * 
  * 정보를 담는 객체를 Entity 객체라고 한다. 
  * 
- * 
  */
-
-
-
 public class User {
 	private String usercode;
 	private String email;
