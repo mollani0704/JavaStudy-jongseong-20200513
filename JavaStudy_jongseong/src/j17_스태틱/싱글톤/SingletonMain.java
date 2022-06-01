@@ -13,9 +13,6 @@ public class SingletonMain {
 		 * 
 		 */
 		
-		
-		
-		
 		Singleton singleton = Singleton.getInstance();
 		singleton.setCount(10);
 		singleton.printInfo();
