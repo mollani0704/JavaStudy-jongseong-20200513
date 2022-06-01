@@ -9,6 +9,8 @@ public class Main {
 		SmartPhone smartPhone = new SmartPhone(monitor); //업캐스팅
 		smartPhone.powerOn();
 		smartPhone.powerOff();
+		
+		monitor.vgaConnect();
 
 	}
 

@@ -27,6 +27,4 @@ public abstract class Factory {
 	public void stop() {
 		System.out.println("공장을 멈춥니다.");
 	}
-	
-	
 }
