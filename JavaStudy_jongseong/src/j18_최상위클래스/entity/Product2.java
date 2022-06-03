@@ -39,8 +39,7 @@ import lombok.ToString;
 @ToString
 
 public class Product2 {
-	@NonNull // null일 수 없다는 뜻.
-	private final int productCode;
+	private final int productCode = 0;
 	private String productName;
 	private int category;
 	private LocalDate productionDate;
