@@ -12,7 +12,6 @@ public class FactoryMain {
 		smartPhoneFactory.start();
 		computerFactory.start();
 		
-		
 	}
 
 }
