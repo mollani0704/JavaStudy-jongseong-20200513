@@ -21,13 +21,12 @@ public class HashSetEx {
 		while(iterator.hasNext()) {
 			String name2 = iterator.next(); 
 			if(name2.equals("김준이")) {
-				System.out.println(name2);
+				System.out.println(name2); 
 			}
 		}
 		
 		name.remove("김준사");
 		System.out.println(name);
-		
-		
+	
 	}
 }

@@ -41,8 +41,5 @@ public class HashSetEx2 {
 			}
 		}
 		System.out.println(studentset);
-		
-		
-		
 	}
 }
