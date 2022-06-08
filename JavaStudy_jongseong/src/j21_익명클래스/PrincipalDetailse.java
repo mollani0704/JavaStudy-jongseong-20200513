@@ -6,6 +6,8 @@ import java.util.List;
 
 // 익명클래스는 한 번 쓰고 말때 사용한다. 
 // 매번 생성해서 사용해야 한다면 그냥 생성한다. 
+// 클래스를 굳이 정의하고 싶지 않을 때 사용.
+
 public class PrincipalDetailse {
 
 	public static void main(String[] args) {

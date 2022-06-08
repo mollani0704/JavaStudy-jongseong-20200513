@@ -64,6 +64,5 @@ public class HashMapEx3 {
 			System.out.println("value: " + v);
 		});
 		
-	
 	}
 }
