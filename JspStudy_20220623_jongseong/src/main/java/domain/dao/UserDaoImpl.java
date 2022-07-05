@@ -109,7 +109,7 @@ public class UserDaoImpl implements UserDao{
 		} catch (SQLException e) {
 			e.printStackTrace();
 		} finally {
-			pool.freeConnection(con, pstmt, rs);
+			pool.freeConnection(con, pstmt, rs); // freeConnection 연결 끊는 것
 		}
 		
 		return user;
