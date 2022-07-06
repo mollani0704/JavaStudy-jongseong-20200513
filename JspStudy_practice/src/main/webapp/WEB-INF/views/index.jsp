@@ -4,9 +4,11 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>메인페이지</title>
+<link rel="stylesheet" href="/static/css/style.css">
+<link rel="stylesheet" href="/static/css/index.css">
 </head>
 <body>
-	<h1>hello123</h1>
+	<h1>index.jsp 불러오기</h1>
 </body>
 </html>
