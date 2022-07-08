@@ -16,4 +16,4 @@ DELETE
 FROM
 	user_mst
 WHERE
-	user_code = 1;
+	user_code = 14;

@@ -5,6 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <title>회원가입</title>
+<script type="text/javascript" src="https://code.jquery.com/jquery-latest.min.js"></script>
 </head>
 <body>
 	<div id="container">
@@ -23,6 +24,9 @@
 				<tr>
 					<th>아이디</th>
 					<td><input class="username-input" type="text" name="username" ></td>
+				</tr>
+				<tr class="username-check-msg">
+				
 				</tr>
 				<tr>
 					<th>비밀번호</th>
