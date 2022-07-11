@@ -22,6 +22,8 @@ public class GetUsername extends HttpServlet {
 
 	public void destroy() {
 		System.out.println("서블릿 객체가 소멸될 때 1회만 실행");
+		
+		
 	}
 
 	
