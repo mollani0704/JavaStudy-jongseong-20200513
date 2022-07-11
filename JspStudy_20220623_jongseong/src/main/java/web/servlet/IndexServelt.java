@@ -23,5 +23,4 @@ public class IndexServelt extends HttpServlet {
 //		RequestDispatcher requestDispatcher = request.getRequestDispatcher("/WEB-INF/views/index.jsp");
 		request.getRequestDispatcher("/WEB-INF/views/index.jsp").forward(request,  response); // forward -> 전달해준다 해당 주소로
 	}
-
 }
