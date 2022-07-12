@@ -3,7 +3,6 @@ const submitButton = document.querySelector(".submit-button");
 const signupButton = document.querySelector(".signup-button");
 const maintainFlag = document.querySelector("#maintain-flag");
 
-
 signupButton.onclick = () => {
 	location.href = "/signup";
 }
